@@ -77,10 +77,10 @@ public class Main {
         }
 
         {System.out.println("задание 9");}
-        int w = 2;
+        int p = 2;
         for (int y = 1; y <= 10; y++ ) {
-            int n = w * y;
-            System.out.println(w+ "*" +y+ "=" + n );
+            int n = p * y;
+            System.out.println(p+ "*" +y+ "=" + n );
         }
 
 
